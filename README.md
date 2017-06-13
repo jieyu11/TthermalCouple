@@ -1,1 +1,3 @@
-convert Thermal couple data to ROOT format.
+Convert: Thermal couple data to ROOT format.
+do
+source run_all.sh
